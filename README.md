@@ -1,8 +1,9 @@
 # HabitZen
 
-HabitZen é um aplicativo de controle de hábitos que ajuda a transformar metas diárias em rituais saudáveis, com recomendações personalizadas e acompanhamento inteligente para uma vida mais equilibrada e produtiva.
+[!IMPORTANT] 
+Esse projeto não possui aplicação real, é apenas um Projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica.
 
-Projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica.
+HabitZen é um aplicativo de controle de hábitos que ajuda a transformar metas diárias em rituais saudáveis, com recomendações personalizadas e acompanhamento inteligente para uma vida mais equilibrada e produtiva.
 
 ## Descrição
 
@@ -23,6 +24,9 @@ HabitZen é um aplicativo que permite aos usuários monitorar seus hábitos diá
 - **ORM**: SQLAlchemy
 - **Validação de Dados**: Pydantic
 
+## Esquema DER
+![Esquema DER](images/Schema.png)
+
 ## Pré-requisitos
 
 - Python 3.11 ou superior
@@ -39,7 +43,7 @@ HabitZen é um aplicativo que permite aos usuários monitorar seus hábitos diá
 
 2. Crie um ambiente virtual e ative-o:
    ```bash
-   uv run ./src/main.py
+   uv run src/main.py
    ```
 
 3. Configure o banco de dados no arquivo `docker-compose.yaml` e inicie os serviços:
@@ -50,8 +54,6 @@ HabitZen é um aplicativo que permite aos usuários monitorar seus hábitos diá
 4. Acesse a aplicação em `http://localhost:8000/docs`.
 
 ## Uso
-TODO
-
 - Para criar um novo usuário, faça uma requisição POST para `/users`.
 - Para gerenciar hábitos, utilize os endpoints relacionados a hábitos.
 
@@ -60,6 +62,4 @@ TODO
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
 
 ## Licença
-TODO
-
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
