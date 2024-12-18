@@ -1,6 +1,6 @@
-# README - Teste de Performance com K6
+# README - Teste do Endpoint e Performance com K6
 
-Este repositório contém um script de teste de teste e performance utilizando o K6, uma ferramenta de código aberto para testes de carga e performance. O script realiza operações CRUD (Criar, Ler, Atualizar, Deletar) em várias entidades, como usuários, categorias, hábitos, frequências, notificações, objetivos, dados do usuário, sugestões e feedbacks.
+Este repositório contém um script de teste do endpoint de teste e performance utilizando o K6, uma ferramenta de código aberto para testes de carga e performance. O script realiza operações CRUD (Criar, Ler, Atualizar, Deletar) em várias entidades, como usuários, categorias, hábitos, frequências, notificações, objetivos, dados do usuário, sugestões e feedbacks.
 
 ## Pré-requisitos
 
