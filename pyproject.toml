@@ -1,0 +1,11 @@
+[project]
+name = "habitzen"
+version = "0.1.0"
+description = "HabitZen é um aplicativo de controle de hábitos que ajuda a transformar metas diárias em rituais saudáveis, com recomendações personalizadas e acompanhamento inteligente para uma vida mais equilibrada e produtiva"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115.6",
+    "pydantic>=2.10.3",
+    "sqlalchemy>=2.0.36",
+]
