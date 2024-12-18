@@ -1,7 +1,7 @@
 # HabitZen
 
 [!IMPORTANT] 
-Esse projeto não possui aplicação real, é apenas um Projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica.
+Esse projeto não possui aplicação real e não é funcional, é apenas um Projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica.
 
 HabitZen é um aplicativo de controle de hábitos que ajuda a transformar metas diárias em rituais saudáveis, com recomendações personalizadas e acompanhamento inteligente para uma vida mais equilibrada e produtiva.
 
@@ -52,6 +52,12 @@ HabitZen é um aplicativo que permite aos usuários monitorar seus hábitos diá
    ```
 
 4. Acesse a aplicação em `http://localhost:8000/docs`.
+
+## Testes
+
+Este projeto inclui testes de da API e de performance utilizando o K6. Os testes realizam operações CRUD em várias entidades e ajudam a monitorar o desempenho da aplicação.
+
+Para executar os testes de performance, consulte o README no diretório `k6`.
 
 ## Uso
 - Para criar um novo usuário, faça uma requisição POST para `/users`.
