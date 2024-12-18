@@ -24,6 +24,9 @@ HabitZen é um aplicativo que permite aos usuários monitorar seus hábitos diá
 - **ORM**: SQLAlchemy
 - **Validação de Dados**: Pydantic
 
+## Swagger
+![Swagger](images/api.png)
+
 ## Esquema DER
 ![Esquema DER](images/Schema.png)
 
