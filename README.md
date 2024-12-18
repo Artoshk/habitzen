@@ -1,7 +1,6 @@
 # HabitZen
 
-[!IMPORTANT] 
-Esse projeto não possui aplicação real e não é funcional! É apenas um projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica, portanto, seu foco é em documentação, não em funcionalidade!
+**‼️‼️Esse projeto não possui aplicação real e não é funcional! É apenas um projeto referente a disciplina de Pós-Graduação da Unifor de documentação técnica, portanto, seu foco é em documentação, não em funcionalidade!‼️‼️**
 
 HabitZen é um aplicativo de controle de hábitos que ajuda a transformar metas diárias em rituais saudáveis, com recomendações personalizadas e acompanhamento inteligente para uma vida mais equilibrada e produtiva.
 
